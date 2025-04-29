@@ -1,6 +1,8 @@
 # CDEC with Decontextualization
 
-This project implements a system for decontextualizing event mentions in text, with a focus on event coreference resolution.
+This project includes an annotation pipeline for decontextualizing event mentions in text and annotated data in data folder.
+
+Download the data from [Google Drive](https://drive.google.com/file/d/15kJkNQHB7ZYPC_GyhsMq6F6ZtBLwZM5j/view?usp=sharing). 
 
 ## Project Structure
 
@@ -53,11 +55,3 @@ src/
 - `resources/`: Additional resources needed for the system.
 - `cdec_modeling/`: Core modeling code for the CDEC system.
 - `data_path/`: Path configurations for data access.
-
-## Getting Started
-
-1. Ensure all dependencies are installed
-2. Configure the paths in `config/` directory
-3. Run preprocessing scripts to prepare the data
-4. Use the decontextualization scripts to process the data
-5. Analyze results using the analysis scripts
