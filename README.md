@@ -61,11 +61,3 @@ src/
 3. Run preprocessing scripts to prepare the data
 4. Use the decontextualization scripts to process the data
 5. Analyze results using the analysis scripts
-
-## Dependencies
-
-(List of dependencies will be added here)
-
-## License
-
-(Add license information here) 
