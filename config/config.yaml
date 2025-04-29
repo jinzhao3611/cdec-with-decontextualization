@@ -1,0 +1,6 @@
+paths:
+  data_dir: "data"
+  models_dir: "models"
+  resources_dir: "resources"
+  config_file: "config/config.yaml"
+  output_dir: "output"
