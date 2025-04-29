@@ -82,4 +82,14 @@ var/
 wheels/
 *.egg-info/
 .installed.cfg
-*.egg 
+*.egg
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Environment variables
+.env
+.env.local
+.env.* 
